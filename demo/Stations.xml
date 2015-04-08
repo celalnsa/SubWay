@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="gb2312"?>
+<All_Stations>
+  <Station Station_ID="1">
+    <Station_Name>莘庄</Station_Name>
+    <Station_Position>(48,139)</Station_Position>
+    <Station_Lines>1,5</Station_Lines>
+  </Station>
+  <Station Station_ID="2">
+    <Station_Name>外环路</Station_Name>
+    <Station_Position>(52,135)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="3">
+    <Station_Name>莲花路</Station_Name>
+    <Station_Position>(56,132)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="4">
+    <Station_Name>锦江乐园</Station_Name>
+    <Station_Position>(60,127)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="5">
+    <Station_Name>上海南站</Station_Name>
+    <Station_Position>(63,123)</Station_Position>
+    <Station_Lines>1,3</Station_Lines>
+  </Station>
+  <Station Station_ID="6">
+    <Station_Name>漕宝路</Station_Name>
+    <Station_Position>(63,113)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="7">
+    <Station_Name>上海体育馆</Station_Name>
+    <Station_Position>(77,102)</Station_Position>
+    <Station_Lines>1,4</Station_Lines>
+  </Station>
+  <Station Station_ID="8">
+    <Station_Name>徐家汇</Station_Name>
+    <Station_Position>(82,98)</Station_Position>
+    <Station_Lines>1,9</Station_Lines>
+  </Station>
+  <Station Station_ID="9">
+    <Station_Name>衡山路</Station_Name>
+    <Station_Position>(85,94)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="10">
+    <Station_Name>常熟路</Station_Name>
+    <Station_Position>(90,90)</Station_Position>
+    <Station_Lines>1,7</Station_Lines>
+  </Station>
+  <Station Station_ID="11">
+    <Station_Name>陕西南路</Station_Name>
+    <Station_Position>(95,90)</Station_Position>
+    <Station_Lines>1,10</Station_Lines>
+  </Station>
+  <Station Station_ID="12">
+    <Station_Name>黄陂南路</Station_Name>
+    <Station_Position>(102,90)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="13">
+    <Station_Name>人民广场</Station_Name>
+    <Station_Position>(108,80)</Station_Position>
+    <Station_Lines>1,2,8</Station_Lines>
+  </Station>
+  <Station Station_ID="14">
+    <Station_Name>新闸路</Station_Name>
+    <Station_Position>(102,74)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="15">
+    <Station_Name>汉中路</Station_Name>
+    <Station_Position>(97,69)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="17">
+    <Station_Name>中山北路</Station_Name>
+    <Station_Position>(97,59)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="18">
+    <Station_Name>延长路</Station_Name>
+    <Station_Position>(97,54)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="19">
+    <Station_Name>上海马戏城</Station_Name>
+    <Station_Position>(97,49)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="20">
+    <Station_Name>汶水路</Station_Name>
+    <Station_Position>(97,45)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="21">
+    <Station_Name>彭浦新村</Station_Name>
+    <Station_Position>(97,41)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="22">
+    <Station_Name>共康路</Station_Name>
+    <Station_Position>(97,36)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="23">
+    <Station_Name>通河新村</Station_Name>
+    <Station_Position>(97,32)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="24">
+    <Station_Name>呼兰路</Station_Name>
+    <Station_Position>(97,27)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="25">
+    <Station_Name>共富新村</Station_Name>
+    <Station_Position>(97,23)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="26">
+    <Station_Name>宝安公路</Station_Name>
+    <Station_Position>(97,19)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="27">
+    <Station_Name>友谊西路</Station_Name>
+    <Station_Position>(97,15)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="28">
+    <Station_Name>富锦路</Station_Name>
+    <Station_Position>(97,10)</Station_Position>
+    <Station_Lines>1</Station_Lines>
+  </Station>
+  <Station Station_ID="29">
+    <Station_Name>浦东国际机场</Station_Name>
+    <Station_Position>(176,140)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="30">
+    <Station_Name>海天三路</Station_Name>
+    <Station_Position>(176,136)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="31">
+    <Station_Name>远东大道</Station_Name>
+    <Station_Position>(176,131)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="32">
+    <Station_Name>凌空路</Station_Name>
+    <Station_Position>(176,126)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="33">
+    <Station_Name>川沙</Station_Name>
+    <Station_Position>(176,123)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="34">
+    <Station_Name>华夏东路</Station_Name>
+    <Station_Position>(176,120)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="35">
+    <Station_Name>创新中路</Station_Name>
+    <Station_Position>(176,116)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="36">
+    <Station_Name>唐镇</Station_Name>
+    <Station_Position>(173,110)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="37">
+    <Station_Name>广兰路</Station_Name>
+    <Station_Position>(165,110)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="38">
+    <Station_Name>金科路</Station_Name>
+    <Station_Position>(160,110)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="39">
+    <Station_Name>张江高科</Station_Name>
+    <Station_Position>(155,110)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="40">
+    <Station_Name>龙阳路</Station_Name>
+    <Station_Position>(150,110)</Station_Position>
+    <Station_Lines>2,7</Station_Lines>
+  </Station>
+  <Station Station_ID="41">
+    <Station_Name>世纪公园</Station_Name>
+    <Station_Position>(140,105)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="42">
+    <Station_Name>上海科技馆</Station_Name>
+    <Station_Position>(140,98)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="43">
+    <Station_Name>世纪大道</Station_Name>
+    <Station_Position>(132,90)</Station_Position>
+    <Station_Lines>2,4,6,9</Station_Lines>
+  </Station>
+  <Station Station_ID="44">
+    <Station_Name>东昌路</Station_Name>
+    <Station_Position>(127,85)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="45">
+    <Station_Name>陆家嘴</Station_Name>
+    <Station_Position>(123,80)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="46">
+    <Station_Name>南京东路</Station_Name>
+    <Station_Position>(117,80)</Station_Position>
+    <Station_Lines>2,10</Station_Lines>
+  </Station>
+  <Station Station_ID="47">
+    <Station_Name>南京西路</Station_Name>
+    <Station_Position>(96,80)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="48">
+    <Station_Name>静安寺</Station_Name>
+    <Station_Position>(90,80)</Station_Position>
+    <Station_Lines>2,7</Station_Lines>
+  </Station>
+  <Station Station_ID="49">
+    <Station_Name>江苏路</Station_Name>
+    <Station_Position>(83,80)</Station_Position>
+    <Station_Lines>2,11</Station_Lines>
+  </Station>
+  <Station Station_ID="50">
+    <Station_Name>中山公园</Station_Name>
+    <Station_Position>(73,80)</Station_Position>
+    <Station_Lines>2,4,3</Station_Lines>
+  </Station>
+  <Station Station_ID="51">
+    <Station_Name>娄山关路</Station_Name>
+    <Station_Position>(65,80)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="52">
+    <Station_Name>威宁路</Station_Name>
+    <Station_Position>(59,80)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="53">
+    <Station_Name>北新泾</Station_Name>
+    <Station_Position>(51,80)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="54">
+    <Station_Name>淞虹路</Station_Name>
+    <Station_Position>(44,80)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="55">
+    <Station_Name>虹桥2号航站楼</Station_Name>
+    <Station_Position>(34,80)</Station_Position>
+    <Station_Lines>2,10</Station_Lines>
+  </Station>
+  <Station Station_ID="56">
+    <Station_Name>虹桥火车站</Station_Name>
+    <Station_Position>(28,80)</Station_Position>
+    <Station_Lines>2,10</Station_Lines>
+  </Station>
+  <Station Station_ID="57">
+    <Station_Name>徐泾东</Station_Name>
+    <Station_Position>(18,80)</Station_Position>
+    <Station_Lines>2</Station_Lines>
+  </Station>
+  <Station Station_ID="87">
+    <Station_Name>宜山路</Station_Name>
+    <Station_Position>(73,98)</Station_Position>
+    <Station_Lines>4,3,9</Station_Lines>
+  </Station>
+  <Station Station_ID="88">
+    <Station_Name>虹桥路</Station_Name>
+    <Station_Position>(73,90)</Station_Position>
+    <Station_Lines>4,10,3</Station_Lines>
+  </Station>
+  <Station Station_ID="89">
+    <Station_Name>延安西路</Station_Name>
+    <Station_Position>(73,85)</Station_Position>
+    <Station_Lines>4,3</Station_Lines>
+  </Station>
+  <Station Station_ID="90">
+    <Station_Name>金沙江路</Station_Name>
+    <Station_Position>(73,74)</Station_Position>
+    <Station_Lines>4,3</Station_Lines>
+  </Station>
+  <Station Station_ID="91">
+    <Station_Name>曹杨路</Station_Name>
+    <Station_Position>(73,68)</Station_Position>
+    <Station_Lines>4,3,11</Station_Lines>
+  </Station>
+  <Station Station_ID="92">
+    <Station_Name>镇坪路</Station_Name>
+    <Station_Position>(78,64)</Station_Position>
+    <Station_Lines>4,3,7</Station_Lines>
+  </Station>
+  <Station Station_ID="93">
+    <Station_Name>中潭路</Station_Name>
+    <Station_Position>(88,64)</Station_Position>
+    <Station_Lines>4,3</Station_Lines>
+  </Station>
+  <Station Station_ID="94">
+    <Station_Name>宝山路</Station_Name>
+    <Station_Position>(102,64)</Station_Position>
+    <Station_Lines>4,3</Station_Lines>
+  </Station>
+  <Station Station_ID="58">
+    <Station_Name>上海体育场</Station_Name>
+    <Station_Position>(85,110)</Station_Position>
+    <Station_Lines>4</Station_Lines>
+  </Station>
+  <Station Station_ID="59">
+    <Station_Name>东安路</Station_Name>
+    <Station_Position>(90,110)</Station_Position>
+    <Station_Lines>4,7</Station_Lines>
+  </Station>
+  <Station Station_ID="60">
+    <Station_Name>大木桥路</Station_Name>
+    <Station_Position>(98,110)</Station_Position>
+    <Station_Lines>4</Station_Lines>
+  </Station>
+  <Station Station_ID="61">
+    <Station_Name>鲁班路</Station_Name>
+    <Station_Position>(105,110)</Station_Position>
+    <Station_Lines>4</Station_Lines>
+  </Station>
+  <Station Station_ID="62">
+    <Station_Name>西藏南路</Station_Name>
+    <Station_Position>(110,110)</Station_Position>
+    <Station_Lines>4,8</Station_Lines>
+  </Station>
+  <Station Station_ID="63">
+    <Station_Name>南浦大桥</Station_Name>
+    <Station_Position>(115,110)</Station_Position>
+    <Station_Lines>4</Station_Lines>
+  </Station>
+  <Station Station_ID="64">
+    <Station_Name>塘桥</Station_Name>
+    <Station_Position>(122,110)</Station_Position>
+    <Station_Lines>4</Station_Lines>
+  </Station>
+  <Station Station_ID="65">
+    <Station_Name>蓝村路</Station_Name>
+    <Station_Position>(128,105)</Station_Position>
+    <Station_Lines>4,6</Station_Lines>
+  </Station>
+  <Station Station_ID="66">
+    <Station_Name>浦电路4</Station_Name>
+    <Station_Position>(132,98)</Station_Position>
+    <Station_Lines>4</Station_Lines>
+  </Station>
+  <Station Station_ID="67">
+    <Station_Name>浦东大道</Station_Name>
+    <Station_Position>(132,85)</Station_Position>
+    <Station_Lines>4</Station_Lines>
+  </Station>
+  <Station Station_ID="68">
+    <Station_Name>杨树浦路</Station_Name>
+    <Station_Position>(132,78)</Station_Position>
+    <Station_Lines>4</Station_Lines>
+  </Station>
+  <Station Station_ID="69">
+    <Station_Name>大连路</Station_Name>
+    <Station_Position>(132,72)</Station_Position>
+    <Station_Lines>4</Station_Lines>
+  </Station>
+  <Station Station_ID="70">
+    <Station_Name>临平路</Station_Name>
+    <Station_Position>(130,65)</Station_Position>
+    <Station_Lines>4</Station_Lines>
+  </Station>
+  <Station Station_ID="71">
+    <Station_Name>海伦路</Station_Name>
+    <Station_Position>(125,65)</Station_Position>
+    <Station_Lines>4,10</Station_Lines>
+  </Station>
+  <Station Station_ID="72">
+    <Station_Name>上海火车站</Station_Name>
+    <Station_Position>(97,64)</Station_Position>
+    <Station_Lines>1,4,3</Station_Lines>
+  </Station>
+  <Station Station_ID="203">
+    <Station_Name>四平路</Station_Name>
+    <Station_Position>(135,43)</Station_Position>
+    <Station_Lines>10,8</Station_Lines>
+  </Station>
+  <Station Station_ID="153">
+    <Station_Name>新江湾城</Station_Name>
+    <Station_Position>(135,14)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="154">
+    <Station_Name>殷高东路</Station_Name>
+    <Station_Position>(135,18)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="155">
+    <Station_Name>三门路</Station_Name>
+    <Station_Position>(135,22)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="156">
+    <Station_Name>江湾体育场</Station_Name>
+    <Station_Position>(135,26)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="157">
+    <Station_Name>五角场</Station_Name>
+    <Station_Position>(135,30)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="158">
+    <Station_Name>国权路</Station_Name>
+    <Station_Position>(135,35)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="159">
+    <Station_Name>同济大学</Station_Name>
+    <Station_Position>(135,40)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="160">
+    <Station_Name>邮电新村</Station_Name>
+    <Station_Position>(131,55)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="186">
+    <Station_Name>四川北路</Station_Name>
+    <Station_Position>(120,68)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="201">
+    <Station_Name>天潼路</Station_Name>
+    <Station_Position>(117,72)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="213">
+    <Station_Name>豫园</Station_Name>
+    <Station_Position>(117,88)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="214">
+    <Station_Name>新天地</Station_Name>
+    <Station_Position>(102,94)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="215">
+    <Station_Name>上海图书馆</Station_Name>
+    <Station_Position>(82,90)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="216">
+    <Station_Name>交通大学</Station_Name>
+    <Station_Position>(76,90)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="217">
+    <Station_Name>宋园路</Station_Name>
+    <Station_Position>(65,90)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="218">
+    <Station_Name>伊犁路</Station_Name>
+    <Station_Position>(59,90)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="219">
+    <Station_Name>水城路</Station_Name>
+    <Station_Position>(51,90)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="220">
+    <Station_Name>龙溪路</Station_Name>
+    <Station_Position>(44,90)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="221">
+    <Station_Name>上海动物园</Station_Name>
+    <Station_Position>(40,86)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="222">
+    <Station_Name>虹桥1号航站楼</Station_Name>
+    <Station_Position>(38,84)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="223">
+    <Station_Name>龙柏新村</Station_Name>
+    <Station_Position>(38,90)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="224">
+    <Station_Name>紫藤路</Station_Name>
+    <Station_Position>(31,90)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="225">
+    <Station_Name>航中路</Station_Name>
+    <Station_Position>(25,90)</Station_Position>
+    <Station_Lines>10</Station_Lines>
+  </Station>
+  <Station Station_ID="226">
+    <Station_Name>老西门</Station_Name>
+    <Station_Position>(110,94)</Station_Position>
+    <Station_Lines>10,8</Station_Lines>
+  </Station>
+  <Station Station_ID="16">
+    <Station_Name>石龙路</Station_Name>
+    <Station_Position>(67,120)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="73">
+    <Station_Name>龙漕路</Station_Name>
+    <Station_Position>(69,113)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="74">
+    <Station_Name>漕溪路</Station_Name>
+    <Station_Position>(73,110)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="75">
+    <Station_Name>东宝兴路</Station_Name>
+    <Station_Position>(112,60)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="76">
+    <Station_Name>虹口足球场</Station_Name>
+    <Station_Position>(120,56)</Station_Position>
+    <Station_Lines>3,8</Station_Lines>
+  </Station>
+  <Station Station_ID="77">
+    <Station_Name>赤峰路</Station_Name>
+    <Station_Position>(120,52)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="78">
+    <Station_Name>大柏树</Station_Name>
+    <Station_Position>(120,48)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="79">
+    <Station_Name>江湾镇</Station_Name>
+    <Station_Position>(120,45)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="80">
+    <Station_Name>殷高西路</Station_Name>
+    <Station_Position>(120,41)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="81">
+    <Station_Name>长江南路</Station_Name>
+    <Station_Position>(120,37)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="82">
+    <Station_Name>淞发路</Station_Name>
+    <Station_Position>(120,33)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="83">
+    <Station_Name>张华浜</Station_Name>
+    <Station_Position>(120,29)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="84">
+    <Station_Name>淞滨路</Station_Name>
+    <Station_Position>(120,25)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="85">
+    <Station_Name>水产路</Station_Name>
+    <Station_Position>(120,21)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="86">
+    <Station_Name>宝杨路</Station_Name>
+    <Station_Position>(120,17)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="95">
+    <Station_Name>友谊路</Station_Name>
+    <Station_Position>(120,13)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="96">
+    <Station_Name>铁力路</Station_Name>
+    <Station_Position>(120,9)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="97">
+    <Station_Name>江杨北路</Station_Name>
+    <Station_Position>(120,6)</Station_Position>
+    <Station_Lines>3</Station_Lines>
+  </Station>
+  <Station Station_ID="98">
+    <Station_Name>春申路</Station_Name>
+    <Station_Position>(48,144)</Station_Position>
+    <Station_Lines>5</Station_Lines>
+  </Station>
+  <Station Station_ID="99">
+    <Station_Name>银都路</Station_Name>
+    <Station_Position>(48,148)</Station_Position>
+    <Station_Lines>5</Station_Lines>
+  </Station>
+  <Station Station_ID="100">
+    <Station_Name>颛桥</Station_Name>
+    <Station_Position>(48,153)</Station_Position>
+    <Station_Lines>5</Station_Lines>
+  </Station>
+  <Station Station_ID="101">
+    <Station_Name>北桥</Station_Name>
+    <Station_Position>(48,158)</Station_Position>
+    <Station_Lines>5</Station_Lines>
+  </Station>
+  <Station Station_ID="102">
+    <Station_Name>剑川路</Station_Name>
+    <Station_Position>(48,163)</Station_Position>
+    <Station_Lines>5</Station_Lines>
+  </Station>
+  <Station Station_ID="103">
+    <Station_Name>东川路</Station_Name>
+    <Station_Position>(48,168)</Station_Position>
+    <Station_Lines>5</Station_Lines>
+  </Station>
+  <Station Station_ID="104">
+    <Station_Name>金平路</Station_Name>
+    <Station_Position>(43,170)</Station_Position>
+    <Station_Lines>5</Station_Lines>
+  </Station>
+  <Station Station_ID="105">
+    <Station_Name>华宁路</Station_Name>
+    <Station_Position>(37,173)</Station_Position>
+    <Station_Lines>5</Station_Lines>
+  </Station>
+  <Station Station_ID="106">
+    <Station_Name>文井路</Station_Name>
+    <Station_Position>(30,178)</Station_Position>
+    <Station_Lines>5</Station_Lines>
+  </Station>
+  <Station Station_ID="107">
+    <Station_Name>闵行开发区</Station_Name>
+    <Station_Position>(22,178)</Station_Position>
+    <Station_Lines>5</Station_Lines>
+  </Station>
+  <Station Station_ID="108">
+    <Station_Name>港城路</Station_Name>
+    <Station_Position>(168,14)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="109">
+    <Station_Name>外高桥保税区北</Station_Name>
+    <Station_Position>(168,20)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="110">
+    <Station_Name>航津路</Station_Name>
+    <Station_Position>(168,25)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="111">
+    <Station_Name>外高桥保税区南</Station_Name>
+    <Station_Position>(168,32)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="112">
+    <Station_Name>洲海路</Station_Name>
+    <Station_Position>(168,38)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="113">
+    <Station_Name>五洲大道</Station_Name>
+    <Station_Position>(168,44)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="114">
+    <Station_Name>东靖路</Station_Name>
+    <Station_Position>(168,49)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="115">
+    <Station_Name>巨峰路</Station_Name>
+    <Station_Position>(168,55)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="116">
+    <Station_Name>五莲路</Station_Name>
+    <Station_Position>(163,59)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="117">
+    <Station_Name>博兴路</Station_Name>
+    <Station_Position>(159,63)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="118">
+    <Station_Name>金桥路</Station_Name>
+    <Station_Position>(154,68)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="119">
+    <Station_Name>云山路</Station_Name>
+    <Station_Position>(151,72)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="120">
+    <Station_Name>德平路</Station_Name>
+    <Station_Position>(146,75)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="121">
+    <Station_Name>北洋泾路</Station_Name>
+    <Station_Position>(144,80)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="122">
+    <Station_Name>民生路</Station_Name>
+    <Station_Position>(140,82)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="123">
+    <Station_Name>源深体育中心</Station_Name>
+    <Station_Position>(136,85)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="124">
+    <Station_Name>浦电路6</Station_Name>
+    <Station_Position>(128,96)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="125">
+    <Station_Name>上海儿童医学中心</Station_Name>
+    <Station_Position>(128,113)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="126">
+    <Station_Name>临沂新村</Station_Name>
+    <Station_Position>(128,118)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="127">
+    <Station_Name>高科西路</Station_Name>
+    <Station_Position>(128,124)</Station_Position>
+    <Station_Lines>6,7</Station_Lines>
+  </Station>
+  <Station Station_ID="128">
+    <Station_Name>东明路</Station_Name>
+    <Station_Position>(125,130)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="129">
+    <Station_Name>高青路</Station_Name>
+    <Station_Position>(121,130)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="130">
+    <Station_Name>华夏西路</Station_Name>
+    <Station_Position>(121,139)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="131">
+    <Station_Name>上南路</Station_Name>
+    <Station_Position>(118,145)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="132">
+    <Station_Name>灵岩南路</Station_Name>
+    <Station_Position>(104,145)</Station_Position>
+    <Station_Lines>6</Station_Lines>
+  </Station>
+  <Station Station_ID="133">
+    <Station_Name>东方体育中心</Station_Name>
+    <Station_Position>(90,145)</Station_Position>
+    <Station_Lines>6,8</Station_Lines>
+  </Station>
+  <Station Station_ID="134">
+    <Station_Name>花木路</Station_Name>
+    <Station_Position>(155,103)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="135">
+    <Station_Name>芳华路</Station_Name>
+    <Station_Position>(145,118)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="136">
+    <Station_Name>锦绣路</Station_Name>
+    <Station_Position>(141,124)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="137">
+    <Station_Name>杨高南路</Station_Name>
+    <Station_Position>(134,124)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="138">
+    <Station_Name>云台路</Station_Name>
+    <Station_Position>(119,124)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="139">
+    <Station_Name>耀华路</Station_Name>
+    <Station_Position>(110,124)</Station_Position>
+    <Station_Lines>7,8</Station_Lines>
+  </Station>
+  <Station Station_ID="140">
+    <Station_Name>长清路</Station_Name>
+    <Station_Position>(103,124)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="141">
+    <Station_Name>后滩</Station_Name>
+    <Station_Position>(96,124)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="142">
+    <Station_Name>船厂路</Station_Name>
+    <Station_Position>(90,120)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="143">
+    <Station_Name>肇嘉浜路</Station_Name>
+    <Station_Position>(90,98)</Station_Position>
+    <Station_Lines>7,9</Station_Lines>
+  </Station>
+  <Station Station_ID="144">
+    <Station_Name>昌平路</Station_Name>
+    <Station_Position>(85,75)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="145">
+    <Station_Name>长寿路</Station_Name>
+    <Station_Position>(80,69)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="146">
+    <Station_Name>岚皋路</Station_Name>
+    <Station_Position>(77,60)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="147">
+    <Station_Name>新村路</Station_Name>
+    <Station_Position>(77,56)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="148">
+    <Station_Name>大华三路</Station_Name>
+    <Station_Position>(77,52)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="149">
+    <Station_Name>行知路</Station_Name>
+    <Station_Position>(77,48)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="150">
+    <Station_Name>大场镇</Station_Name>
+    <Station_Position>(77,44)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="151">
+    <Station_Name>场中路</Station_Name>
+    <Station_Position>(77,40)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="152">
+    <Station_Name>上大路</Station_Name>
+    <Station_Position>(77,36)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="161">
+    <Station_Name>南陈路</Station_Name>
+    <Station_Position>(77,32)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="162">
+    <Station_Name>上海大学</Station_Name>
+    <Station_Position>(77,29)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="163">
+    <Station_Name>顾村公园</Station_Name>
+    <Station_Position>(77,26)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="164">
+    <Station_Name>刘行</Station_Name>
+    <Station_Position>(77,23)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="165">
+    <Station_Name>潘广路</Station_Name>
+    <Station_Position>(77,20)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="166">
+    <Station_Name>罗南新村</Station_Name>
+    <Station_Position>(77,16)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="167">
+    <Station_Name>美兰湖</Station_Name>
+    <Station_Position>(77,12)</Station_Position>
+    <Station_Lines>7</Station_Lines>
+  </Station>
+  <Station Station_ID="168">
+    <Station_Name>航天博物馆</Station_Name>
+    <Station_Position>(90,174)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="169">
+    <Station_Name>联航路</Station_Name>
+    <Station_Position>(90,168)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="170">
+    <Station_Name>江月路</Station_Name>
+    <Station_Position>(90,165)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="171">
+    <Station_Name>浦江镇</Station_Name>
+    <Station_Position>(90,158)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="172">
+    <Station_Name>芦恒路</Station_Name>
+    <Station_Position>(90,154)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="173">
+    <Station_Name>凌兆新村</Station_Name>
+    <Station_Position>(90,150)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="174">
+    <Station_Name>杨思</Station_Name>
+    <Station_Position>(101,137)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="175">
+    <Station_Name>成山路</Station_Name>
+    <Station_Position>(110,130)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="176">
+    <Station_Name>陆家浜路</Station_Name>
+    <Station_Position>(110,98)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="177">
+    <Station_Name>大世界</Station_Name>
+    <Station_Position>(110,87)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="178">
+    <Station_Name>曲阜路</Station_Name>
+    <Station_Position>(107,72)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="179">
+    <Station_Name>中兴路</Station_Name>
+    <Station_Position>(107,54)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="180">
+    <Station_Name>西藏北路</Station_Name>
+    <Station_Position>(113,54)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="181">
+    <Station_Name>曲阳路</Station_Name>
+    <Station_Position>(130,45)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="182">
+    <Station_Name>鞍山新村</Station_Name>
+    <Station_Position>(139,40)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="183">
+    <Station_Name>江浦路</Station_Name>
+    <Station_Position>(142,35)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="184">
+    <Station_Name>黄兴路</Station_Name>
+    <Station_Position>(146,32)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="185">
+    <Station_Name>延吉中路</Station_Name>
+    <Station_Position>(148,29)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="187">
+    <Station_Name>黄兴公园</Station_Name>
+    <Station_Position>(148,26)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="188">
+    <Station_Name>翔殷路</Station_Name>
+    <Station_Position>(148,22)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="189">
+    <Station_Name>嫩江路</Station_Name>
+    <Station_Position>(148,16)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="190">
+    <Station_Name>市光路</Station_Name>
+    <Station_Position>(148,12)</Station_Position>
+    <Station_Lines>8</Station_Lines>
+  </Station>
+  <Station Station_ID="191">
+    <Station_Name>杨高中路</Station_Name>
+    <Station_Position>(143,90)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="192">
+    <Station_Name>商城路</Station_Name>
+    <Station_Position>(123,90)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="193">
+    <Station_Name>小南门</Station_Name>
+    <Station_Position>(117,98)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="194">
+    <Station_Name>陆家浜</Station_Name>
+    <Station_Position>(110,98)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="195">
+    <Station_Name>马当路</Station_Name>
+    <Station_Position>(105,98)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="196">
+    <Station_Name>打浦桥</Station_Name>
+    <Station_Position>(101,98)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="197">
+    <Station_Name>嘉善路</Station_Name>
+    <Station_Position>(96,98)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="198">
+    <Station_Name>桂林路</Station_Name>
+    <Station_Position>(65,98)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="199">
+    <Station_Name>漕河泾开发区</Station_Name>
+    <Station_Position>(57,98)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="200">
+    <Station_Name>合川路</Station_Name>
+    <Station_Position>(50,98)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="202">
+    <Station_Name>星中路</Station_Name>
+    <Station_Position>(43,98)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="204">
+    <Station_Name>七宝</Station_Name>
+    <Station_Position>(35,98)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="205">
+    <Station_Name>中春路</Station_Name>
+    <Station_Position>(29,98)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="206">
+    <Station_Name>九亭</Station_Name>
+    <Station_Position>(25,102)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="207">
+    <Station_Name>泗泾</Station_Name>
+    <Station_Position>(21,105)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="208">
+    <Station_Name>佘山</Station_Name>
+    <Station_Position>(17,109)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="209">
+    <Station_Name>洞泾</Station_Name>
+    <Station_Position>(12,114)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="210">
+    <Station_Name>松江大学城</Station_Name>
+    <Station_Position>(8,118)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="211">
+    <Station_Name>松江新城</Station_Name>
+    <Station_Position>(3,122)</Station_Position>
+    <Station_Lines>9</Station_Lines>
+  </Station>
+  <Station Station_ID="212">
+    <Station_Name>隆德路</Station_Name>
+    <Station_Position>(78,74)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="227">
+    <Station_Name>枫桥路</Station_Name>
+    <Station_Position>(69,64)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="228">
+    <Station_Name>真如</Station_Name>
+    <Station_Position>(65,60)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="229">
+    <Station_Name>上海西站</Station_Name>
+    <Station_Position>(61,55)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="230">
+    <Station_Name>李子园</Station_Name>
+    <Station_Position>(57,53)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="231">
+    <Station_Name>祁连山路</Station_Name>
+    <Station_Position>(57,48)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="232">
+    <Station_Name>武威路</Station_Name>
+    <Station_Position>(57,45)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="233">
+    <Station_Name>桃浦新村</Station_Name>
+    <Station_Position>(57,40)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="234">
+    <Station_Name>南翔</Station_Name>
+    <Station_Position>(57,36)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="235">
+    <Station_Name>马陆</Station_Name>
+    <Station_Position>(57,32)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="236">
+    <Station_Name>嘉定新城</Station_Name>
+    <Station_Position>(57,28)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="237">
+    <Station_Name>白银路</Station_Name>
+    <Station_Position>(57,24)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="238">
+    <Station_Name>嘉定西</Station_Name>
+    <Station_Position>(57,19)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="239">
+    <Station_Name>嘉定北</Station_Name>
+    <Station_Position>(57,15)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="240">
+    <Station_Name>上海赛车场</Station_Name>
+    <Station_Position>(53,23)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="241">
+    <Station_Name>昌吉东路</Station_Name>
+    <Station_Position>(50,20)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="242">
+    <Station_Name>上海汽车城</Station_Name>
+    <Station_Position>(46,17)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+  <Station Station_ID="243">
+    <Station_Name>安亭</Station_Name>
+    <Station_Position>(42,14)</Station_Position>
+    <Station_Lines>11</Station_Lines>
+  </Station>
+</All_Stations>

@@ -1,0 +1,9 @@
+D:\CWork\highC#\SubWay\SubWay\bin\Debug\SubWay.exe
+D:\CWork\highC#\SubWay\SubWay\bin\Debug\SubWay.pdb
+D:\CWork\highC#\SubWay\SubWay\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CWork\highC#\SubWay\SubWay\obj\x86\Debug\SubWay.Properties.Resources.resources
+D:\CWork\highC#\SubWay\SubWay\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CWork\highC#\SubWay\SubWay\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CWork\highC#\SubWay\SubWay\obj\x86\Debug\SubWay.exe
+D:\CWork\highC#\SubWay\SubWay\obj\x86\Debug\SubWay.pdb
+D:\CWork\highC#\SubWay\SubWay\obj\x86\Debug\SubWay.SubForm.resources

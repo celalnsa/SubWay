@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="gb2312"?>
+<All_Lines>
+  <Line Line_ID="1">
+    <Line_Color>Red</Line_Color>
+    <Line_Type>1</Line_Type>
+    <Line_Stations>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,72,17,18,19,20,21,22,23,24,25,26,27,28</Line_Stations>
+    <Line_ChangeStations>1,5,7,10,11,13,72,8</Line_ChangeStations>
+    <Line_Extral>0</Line_Extral>
+  </Line>
+  <Line Line_ID="2">
+    <Line_Color>Green</Line_Color>
+    <Line_Type>1</Line_Type>
+    <Line_Stations>29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,13,47,48,49,50,51,52,53,54,55,56,57</Line_Stations>
+    <Line_ChangeStations>40,43,46,13,48,50,55,56,49</Line_ChangeStations>
+    <Line_Extral>0</Line_Extral>
+  </Line>
+  <Line Line_ID="4">
+    <Line_Color>DarkViolet</Line_Color>
+    <Line_Type>3</Line_Type>
+    <Line_Stations>87,7,58,59,60,61,62,63,64,65,66,43,67,68,69,70,71,94,72,93,92,91,90,50,89,88</Line_Stations>
+    <Line_ChangeStations>87,7,59,65,43,71,94,72,93,92,91,90,50,89,88,62</Line_ChangeStations>
+    <Line_Extral>0</Line_Extral>
+  </Line>
+  <Line Line_ID="10">
+    <Line_Color>Thistle</Line_Color>
+    <Line_Type>2</Line_Type>
+    <Line_Stations>153,154,155,156,157,158,159,203,160,71,186,201,46,213,226,214,11,215,216,88,217,218,219,220,221,222,55,56,220,223,224,225</Line_Stations>
+    <Line_ChangeStations>71,46,11,88,220,55,56,220,226,203</Line_ChangeStations>
+    <Line_Extral>220</Line_Extral>
+  </Line>
+  <Line Line_ID="3">
+    <Line_Color>Gold</Line_Color>
+    <Line_Type>1</Line_Type>
+    <Line_Stations>5,16,73,74,87,88,89,50,90,91,92,93,72,94,75,76,77,78,79,80,81,82,83,84,85,86,95,96,97</Line_Stations>
+    <Line_ChangeStations>5,87,88,89,50,90,91,92,93,72,94,76</Line_ChangeStations>
+    <Line_Extral>0</Line_Extral>
+  </Line>
+  <Line Line_ID="5">
+    <Line_Color>HotPink</Line_Color>
+    <Line_Type>1</Line_Type>
+    <Line_Stations>1,98,99,100,101,102,103,104,105,106,107</Line_Stations>
+    <Line_ChangeStations>1</Line_ChangeStations>
+    <Line_Extral>0</Line_Extral>
+  </Line>
+  <Line Line_ID="6">
+    <Line_Color>IndianRed</Line_Color>
+    <Line_Type>1</Line_Type>
+    <Line_Stations>108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,43,124,65,125,126,127,128,129,130,131,132,133</Line_Stations>
+    <Line_ChangeStations>43,65,127,133</Line_ChangeStations>
+    <Line_Extral>0</Line_Extral>
+  </Line>
+  <Line Line_ID="7">
+    <Line_Color>Orange</Line_Color>
+    <Line_Type>1</Line_Type>
+    <Line_Stations>134,40,135,136,137,127,138,139,140,141,142,59,143,10,48,144,145,92,146,147,148,149,150,151,152,161,162,163,164,165,166,167</Line_Stations>
+    <Line_ChangeStations>40,127,139,59,10,48,92,143</Line_ChangeStations>
+    <Line_Extral>0</Line_Extral>
+  </Line>
+  <Line Line_ID="8">
+    <Line_Color>RoyalBlue</Line_Color>
+    <Line_Type>1</Line_Type>
+    <Line_Stations>168,169,170,171,172,173,133,174,175,139,62,176,226,177,13,178,179,180,76,181,203,182,183,184,185,187,188,189,190</Line_Stations>
+    <Line_ChangeStations>133,139,62,226,13,76,203</Line_ChangeStations>
+    <Line_Extral>0</Line_Extral>
+  </Line>
+  <Line Line_ID="9">
+    <Line_Color>DeepSkyBlue</Line_Color>
+    <Line_Type>1</Line_Type>
+    <Line_Stations>191,43,192,193,194,195,196,197,143,8,87,198,199,200,202,204,205,206,207,208,209,210,211</Line_Stations>
+    <Line_ChangeStations>43,143,8,87</Line_ChangeStations>
+    <Line_Extral>0</Line_Extral>
+  </Line>
+  <Line Line_ID="11">
+    <Line_Color>Maroon</Line_Color>
+    <Line_Type>2</Line_Type>
+    <Line_Stations>49,212,91,227,228,229,230,231,232,233,234,235,236,237,238,239,236,240,241,242,243</Line_Stations>
+    <Line_ChangeStations>49,91,236</Line_ChangeStations>
+    <Line_Extral>236</Line_Extral>
+  </Line>
+</All_Lines>
